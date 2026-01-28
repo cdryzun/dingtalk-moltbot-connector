@@ -41,6 +41,8 @@ graph LR
 ```bash
 # 远程安装
 clawdbot plugins install https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector.git
+# 后续插件升级
+clawdbot plugins update dingtalk-connector
 
 # 或本地开发模式
 git clone https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector.git
